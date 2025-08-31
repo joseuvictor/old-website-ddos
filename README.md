@@ -1,5 +1,5 @@
 # old-website-ddos
-Viktor @cfgdll
+@joseuvictor
 
 [+] English
 Hello everyone, I found these scripts in my cloud that I have had since 2016, they were made in Python for DDOS attacks on Websites
